@@ -3,8 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Checkio.iml" filepath="$PROJECT_DIR$/.idea/Checkio.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../EDX/.idea/EDX.iml" filepath="$PROJECT_DIR$/../EDX/.idea/EDX.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../PythonLearning/.idea/PythonLearning.iml" filepath="$PROJECT_DIR$/../PythonLearning/.idea/PythonLearning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MITx_6.00.1x/.idea/MITx_6.00.1x.iml" filepath="$PROJECT_DIR$/../MITx_6.00.1x/.idea/MITx_6.00.1x.iml" />
     </modules>
   </component>
 </project>

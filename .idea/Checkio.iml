@@ -5,7 +5,7 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="EDX" />
-    <orderEntry type="module" module-name="PythonLearning" />
+    <orderEntry type="module" module-name="MITx_6.00.1x" />
   </component>
   <component name="TestRunnerService">
     <option name="projectConfiguration" value="pytest" />
